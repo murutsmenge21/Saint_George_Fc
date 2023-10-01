@@ -105,11 +105,11 @@ nav ul li a{
 .video_wrapper{
     width: 100%;
     min-height: 100vh;
-    background-color:#FFF;
+    background-color:#f4f4f4;
    
 }
 .bottom_nav{ 
-    background-color: #FFF;
+    background-color: #f4f4f4;
 }
  .nav_video{
     width: 60%; 

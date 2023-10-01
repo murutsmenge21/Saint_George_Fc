@@ -104,8 +104,9 @@ nav ul li a{
 /* video navigation */
 .video_wrapper{
     width: 100%;
-    min-height: 100vh;
     background-color:#00FFFF;
+    min-height: 100vh;
+   
    
 }
 .bottom_nav{ 
